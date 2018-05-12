@@ -1,0 +1,41 @@
+_repo: To-Your-Dog-and-To-My-Dog_39750
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Kinnicutt, Lincoln Newton
+    birthdate: 1849
+    deathdate: 1921
+    gutenberg_agent_id: '40199'
+    url: http://www.gutenberg.org/2009/agents/40199
+covers:
+- cover_type: archival
+  image_path: 39750-h/images/frontcover.png
+description: ''
+gutenberg_issued: '2012-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Dogs -- Poetry'
+tableOfContents: Lufra / Sir Walter Scott -- Fidele's grassy tomb / Henry Newbolt
+  -- Leo / Richard Watson Gilder -- Geist's grave / Matthew Arnold -- The power of
+  the dog / Rudyard Kipling -- To Rufus, a spaniel / R. C. Lehmann -- Tim, an Irish
+  terrier / W. M. Letts -- To a terrier / Patrick R. Chalmers -- Rhapsody on a dog's
+  intelligence / Burges Johnson -- Frances / Richard Wightman -- Roger and I / Julian
+  S. Cutler -- Sir Bat-ears / Mrs. Eden -- Cluny / William Croswell Doane -- Laddie
+  / Katharine Lee Bates -- Davy / Louise Imogen Guiney -- A friend / Zitella Cocke
+  -- The bath / R. C. Lehmann -- Six feet / Anonymous -- Wilhelm / Patrick R. Chalmers
+  -- An old dog / Celia Duffin -- Remarks to my grown-up pup / Burges Johnson -- An
+  extract from inscription on the monument of a Newfoundland dog / Lord Byron -- To
+  Tim, an Irish terrier / W. M. Letts -- My dog / Anna Hadley Middlemas -- Without
+  are dogs / Edward A. Church -- You're a dog / C. L. Gilman -- A gentleman / Anonymous
+  -- My dog / St. John Lucas -- To Scott, a collie / W. M. Letts -- 'Dodo,' 1903-1913
+  / Arthur Austin-Jackson -- Epitaph / Sir Walter Scott -- Hamish, a Scotch terrier
+  / C. Hilton Brown.
+title: To Your Dog and to My Dog
+url: http://www.gutenberg.org/ebooks/39750
